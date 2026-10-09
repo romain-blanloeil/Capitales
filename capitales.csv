@@ -1,0 +1,198 @@
+continent;pays;capitale;note
+Europe;Albanie;Tirana;
+Europe;Allemagne;Berlin;
+Europe;Andorre;Andorre-la-Vieille;
+Europe;Autriche;Vienne;
+Europe;Belgique;Bruxelles;
+Europe;Biélorussie;Minsk;
+Europe;Bosnie-Herzégovine;Sarajevo;
+Europe;Bulgarie;Sofia;
+Europe;Chypre;Nicosie;
+Europe;Croatie;Zagreb;
+Europe;Danemark;Copenhague;
+Europe;Espagne;Madrid;
+Europe;Estonie;Tallinn;
+Europe;Finlande;Helsinki;
+Europe;France;Paris;
+Europe;Grèce;Athènes;
+Europe;Hongrie;Budapest;
+Europe;Irlande;Dublin;
+Europe;Islande;Reykjavik;
+Europe;Italie;Rome;
+Europe;Kosovo;Pristina;Indépendance déclarée en 2008, reconnue par une partie des pays, dont la France.
+Europe;Lettonie;Riga;
+Europe;Liechtenstein;Vaduz;
+Europe;Lituanie;Vilnius;
+Europe;Luxembourg;Luxembourg;
+Europe;Macédoine du Nord;Skopje;
+Europe;Malte;La Valette;
+Europe;Moldavie;Chisinau;
+Europe;Monaco;Monaco;
+Europe;Monténégro;Podgorica;
+Europe;Norvège;Oslo;
+Europe;Pays-Bas;Amsterdam;Le gouvernement siège à La Haye.
+Europe;Pologne;Varsovie;
+Europe;Portugal;Lisbonne;
+Europe;République tchèque;Prague;
+Europe;Roumanie;Bucarest;
+Europe;Royaume-Uni;Londres;
+Europe;Russie;Moscou;
+Europe;Saint-Marin;Saint-Marin;
+Europe;Serbie;Belgrade;
+Europe;Slovaquie;Bratislava;
+Europe;Slovénie;Ljubljana;
+Europe;Suède;Stockholm;
+Europe;Suisse;Berne;Officiellement « ville fédérale ».
+Europe;Ukraine;Kiev;Aussi écrit Kyiv.
+Europe;Vatican;Cité du Vatican;Plus petit État du monde, observateur à l'ONU.
+Asie;Afghanistan;Kaboul;
+Asie;Arabie saoudite;Riyad;
+Asie;Arménie;Erevan;
+Asie;Azerbaïdjan;Bakou;
+Asie;Bahreïn;Manama;
+Asie;Bangladesh;Dacca;
+Asie;Bhoutan;Thimphou;
+Asie;Birmanie;Naypyidaw;
+Asie;Brunei;Bandar Seri Begawan;
+Asie;Cambodge;Phnom Penh;
+Asie;Chine;Pékin;
+Asie;Corée du Nord;Pyongyang;
+Asie;Corée du Sud;Séoul;
+Asie;Émirats arabes unis;Abou Dabi;
+Asie;Géorgie;Tbilissi;
+Asie;Inde;New Delhi;
+Asie;Indonésie;Jakarta;
+Asie;Irak;Bagdad;
+Asie;Iran;Téhéran;
+Asie;Israël;Jérusalem;Capitale proclamée par Israël, non reconnue par la plupart des pays (dont la France). La plupart des ambassades sont à Tel Aviv.
+Asie;Japon;Tokyo;
+Asie;Jordanie;Amman;
+Asie;Kazakhstan;Astana;
+Asie;Kirghizistan;Bichkek;
+Asie;Koweït;Koweït;
+Asie;Laos;Vientiane;
+Asie;Liban;Beyrouth;
+Asie;Malaisie;Kuala Lumpur;Le gouvernement siège à Putrajaya.
+Asie;Maldives;Malé;
+Asie;Mongolie;Oulan-Bator;
+Asie;Népal;Katmandou;
+Asie;Oman;Mascate;
+Asie;Ouzbékistan;Tachkent;
+Asie;Pakistan;Islamabad;
+Asie;Palestine;Ramallah;Siège de l'Autorité palestinienne. Jérusalem-Est est revendiquée comme capitale.
+Asie;Philippines;Manille;
+Asie;Qatar;Doha;
+Asie;Singapour;Singapour;
+Asie;Sri Lanka;Colombo;Capitale officielle : Sri Jayawardenapura Kotte, en banlieue de Colombo.
+Asie;Syrie;Damas;
+Asie;Tadjikistan;Douchanbé;
+Asie;Taïwan;Taipei;Reconnue par très peu de pays. La Chine la considère comme une de ses provinces.
+Asie;Thaïlande;Bangkok;
+Asie;Timor oriental;Dili;
+Asie;Turkménistan;Achgabat;
+Asie;Turquie;Ankara;Pas Istanbul ! C'est la plus grande ville.
+Asie;Viêt Nam;Hanoï;
+Asie;Yémen;Sanaa;
+Afrique;Afrique du Sud;Pretoria;3 capitales : Pretoria (gouvernement), Le Cap (parlement), Bloemfontein (justice).
+Afrique;Algérie;Alger;
+Afrique;Angola;Luanda;
+Afrique;Bénin;Porto-Novo;Le gouvernement siège à Cotonou.
+Afrique;Botswana;Gaborone;
+Afrique;Burkina Faso;Ouagadougou;
+Afrique;Burundi;Gitega;Capitale depuis 2019, avant c'était Bujumbura.
+Afrique;Cameroun;Yaoundé;
+Afrique;Cap-Vert;Praia;
+Afrique;Centrafrique;Bangui;
+Afrique;Comores;Moroni;
+Afrique;Congo;Brazzaville;
+Afrique;RD Congo;Kinshasa;
+Afrique;Côte d'Ivoire;Yamoussoukro;Abidjan est la capitale économique.
+Afrique;Djibouti;Djibouti;
+Afrique;Égypte;Le Caire;
+Afrique;Érythrée;Asmara;
+Afrique;Eswatini;Mbabane;
+Afrique;Éthiopie;Addis-Abeba;
+Afrique;Gabon;Libreville;
+Afrique;Gambie;Banjul;
+Afrique;Ghana;Accra;
+Afrique;Guinée;Conakry;
+Afrique;Guinée-Bissau;Bissau;
+Afrique;Guinée équatoriale;Malabo;
+Afrique;Kenya;Nairobi;
+Afrique;Lesotho;Maseru;
+Afrique;Libéria;Monrovia;
+Afrique;Libye;Tripoli;
+Afrique;Madagascar;Antananarivo;
+Afrique;Malawi;Lilongwe;
+Afrique;Mali;Bamako;
+Afrique;Maroc;Rabat;Casablanca est la plus grande ville.
+Afrique;Maurice;Port-Louis;
+Afrique;Mauritanie;Nouakchott;
+Afrique;Mozambique;Maputo;
+Afrique;Namibie;Windhoek;
+Afrique;Niger;Niamey;
+Afrique;Nigéria;Abuja;Lagos est la plus grande ville.
+Afrique;Ouganda;Kampala;
+Afrique;Rwanda;Kigali;
+Afrique;Sao Tomé-et-Principe;São Tomé;
+Afrique;Sénégal;Dakar;
+Afrique;Seychelles;Victoria;
+Afrique;Sierra Leone;Freetown;
+Afrique;Somalie;Mogadiscio;
+Afrique;Soudan;Khartoum;
+Afrique;Soudan du Sud;Djouba;
+Afrique;Tanzanie;Dodoma;Dar es Salaam est la plus grande ville.
+Afrique;Tchad;N'Djamena;
+Afrique;Togo;Lomé;
+Afrique;Tunisie;Tunis;
+Afrique;Zambie;Lusaka;
+Afrique;Zimbabwe;Harare;
+Amérique du Nord;Antigua-et-Barbuda;Saint John's;
+Amérique du Nord;Bahamas;Nassau;
+Amérique du Nord;Barbade;Bridgetown;
+Amérique du Nord;Belize;Belmopan;
+Amérique du Nord;Canada;Ottawa;Toronto est la plus grande ville.
+Amérique du Nord;Costa Rica;San José;
+Amérique du Nord;Cuba;La Havane;
+Amérique du Nord;Dominique;Roseau;
+Amérique du Nord;Salvador;San Salvador;
+Amérique du Nord;États-Unis;Washington;
+Amérique du Nord;Grenade;Saint-Georges;
+Amérique du Nord;Guatemala;Guatemala;
+Amérique du Nord;Haïti;Port-au-Prince;
+Amérique du Nord;Honduras;Tegucigalpa;
+Amérique du Nord;Jamaïque;Kingston;
+Amérique du Nord;Mexique;Mexico;
+Amérique du Nord;Nicaragua;Managua;
+Amérique du Nord;Panama;Panama;
+Amérique du Nord;République dominicaine;Saint-Domingue;
+Amérique du Nord;Saint-Christophe-et-Niévès;Basseterre;
+Amérique du Nord;Sainte-Lucie;Castries;
+Amérique du Nord;Saint-Vincent-et-les-Grenadines;Kingstown;
+Amérique du Nord;Trinité-et-Tobago;Port-d'Espagne;
+Amérique du Sud;Argentine;Buenos Aires;
+Amérique du Sud;Bolivie;La Paz;Siège du gouvernement. Sucre est la capitale constitutionnelle.
+Amérique du Sud;Brésil;Brasilia;Rio de Janeiro a été la capitale jusqu'en 1960.
+Amérique du Sud;Chili;Santiago;
+Amérique du Sud;Colombie;Bogota;
+Amérique du Sud;Équateur;Quito;
+Amérique du Sud;Guyana;Georgetown;
+Amérique du Sud;Paraguay;Asunción;
+Amérique du Sud;Pérou;Lima;
+Amérique du Sud;Suriname;Paramaribo;
+Amérique du Sud;Uruguay;Montevideo;
+Amérique du Sud;Venezuela;Caracas;
+Océanie;Australie;Canberra;Pas Sydney ! C'est la plus grande ville.
+Océanie;Fidji;Suva;
+Océanie;Îles Marshall;Majuro;
+Océanie;Îles Salomon;Honiara;
+Océanie;Kiribati;Tarawa-Sud;
+Océanie;Micronésie;Palikir;
+Océanie;Nauru;Yaren;Pas de capitale officielle, Yaren est le siège du gouvernement.
+Océanie;Nouvelle-Zélande;Wellington;
+Océanie;Palaos;Ngerulmud;
+Océanie;Papouasie-Nouvelle-Guinée;Port Moresby;
+Océanie;Samoa;Apia;
+Océanie;Tonga;Nuku'alofa;
+Océanie;Tuvalu;Funafuti;
+Océanie;Vanuatu;Port-Vila;

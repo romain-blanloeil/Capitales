@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quiz des capitales</title>
+<meta name="description" content="Quiz pour apprendre les capitales du monde, continent par continent.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+<main>
+  <h1><span aria-hidden="true">🌍</span> <span class="grad">Quiz des capitales</span></h1>
+
+  <!-- Réglages -->
+  <section id="menu" class="card">
+    <div class="row">
+      <label for="player">Joueur</label>
+      <select id="player"></select>
+      <button id="newPlayer" type="button" title="Nouveau joueur">＋</button>
+    </div>
+    <div class="links right"><a id="delPlayer">Supprimer ce joueur</a></div>
+
+    <fieldset>
+      <legend>Continents</legend>
+      <div class="links"><a id="all">Tout cocher</a><a id="none">Tout décocher</a></div>
+      <div id="continents"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Mes erreurs</legend>
+      <label class="cb"><input type="checkbox" id="errOnly"> Seulement les pays ratés <small id="errCount"></small></label>
+      <div class="links"><a id="reset">Effacer les erreurs de ce joueur</a></div>
+    </fieldset>
+
+    <div class="row">
+      <label for="mode">Mode</label>
+      <select id="mode">
+        <option value="p2c">Pays ➜ Capitale</option>
+        <option value="c2p">Capitale ➜ Pays</option>
+        <option value="mix">Mélangé</option>
+      </select>
+    </div>
+    <div class="row">
+      <label for="nb">Questions</label>
+      <select id="nb"></select>
+    </div>
+    <div class="info" id="pool">Chargement…</div>
+    <button id="go" class="primary" disabled>Jouer</button>
+  </section>
+
+  <!-- Quiz -->
+  <section id="quiz" class="card hidden">
+    <div class="bar"><span id="num"></span><span id="score"></span></div>
+    <div class="question" id="question"></div>
+    <div class="options" id="options"></div>
+    <div class="info" id="info"></div>
+    <div class="note" id="note"></div>
+    <button id="next" class="primary hidden">Suivant</button>
+  </section>
+
+  <!-- Résultat -->
+  <section id="end" class="card hidden center">
+    <h2 id="final"></h2>
+    <p id="comment"></p>
+    <div id="missed"></div>
+    <button id="again" class="primary">Rejouer</button>
+  </section>
+</main>
+
+<footer>
+  <p>© 2026 Romain Blanloeil · <a href="https://romain.blanloeil.com">Portfolio</a> · <a href="https://github.com/romain-blanloeil">GitHub</a></p>
+</footer>
+</body>
+</html>
