@@ -3,6 +3,8 @@
 Quiz web pour apprendre les capitales du monde, continent par continent.
 HTML, CSS et JavaScript, sans framework ni dépendance.
 
+🔗 Lien vers le site : https://quiz-capitales.blanloeil.com
+
 ## Fonctionnalités
 
 - 197 pays : les 193 membres de l'ONU, plus le Vatican, la Palestine, le Kosovo et Taïwan
