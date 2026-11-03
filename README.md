@@ -51,7 +51,7 @@ Les profils et les erreurs restent dans le navigateur (localStorage). Aucune don
 
 ## Conception
 
-Conçu et développé par Romain Blanloeil, avec l'assistance de Claude (Anthropic) pour l'écriture du code.
+Conçu et développé par Romain Blanloeil (whit3roro), avec l'assistance de Claude (Anthropic) pour l'écriture du code.
 Choix fonctionnels, tests, mise en ligne et maintenance : Romain Blanloeil.
 
 [romain.blanloeil.com](https://romain.blanloeil.com)
