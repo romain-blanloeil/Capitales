@@ -49,6 +49,9 @@ Puis ouvrir http://localhost:8000 (ou utiliser l'extension Live Server de VS Cod
 
 Les profils et les erreurs restent dans le navigateur (localStorage). Aucune donnée de jeu n'est envoyée à un serveur.
 
-## Auteur
+## Conception
 
-Romain Blanloeil — [romain.blanloeil.com](https://romain.blanloeil.com)
+Conçu et développé par Romain Blanloeil, avec l'assistance de Claude (Anthropic) pour l'écriture du code.
+Choix fonctionnels, tests, mise en ligne et maintenance : Romain Blanloeil.
+
+[romain.blanloeil.com](https://romain.blanloeil.com)
